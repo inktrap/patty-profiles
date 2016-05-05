@@ -1,0 +1,16 @@
+{
+    "rules": [
+        ["\bTrump\b", "Drumpf"],
+        ["\bTRUMP\b", "DRUMPF"],
+        ["\bTRUMPS\b", "DRUMPFS"],
+        ["\bTrumps\b", "Drumpfs"],
+        ["\bdonaldjtrump\b", "donaldjdrumpf"],
+        ["\bdonaldtrump\b", "donalddrumpf"],
+        ["\brealdonaldtrump\b", "realdonalddrumpf"],
+        ["\brealDonaldTrump\b", "realDonaldDrumpf"],
+        ["\bMake America Great Again\b", "Make Donald Drumpf Again"],
+        ["\bMake America Great Again!\b", "Make Donald Drumpf Again!"]
+    ]
+}
+
+
