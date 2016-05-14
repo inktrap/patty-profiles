@@ -17,4 +17,5 @@ This is patty, who likes patterns.
 # Done
 
  - used trump profile from the original drumpfinator app
+ - used xkcd substitutions
 
